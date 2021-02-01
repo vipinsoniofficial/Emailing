@@ -3,6 +3,7 @@ Using Flask-Mail to send email with attachment. A Flask extension for sending si
 
 # Installing
 pip install Flask
+
 pip install Flask-Mail
 
 # Configuration
