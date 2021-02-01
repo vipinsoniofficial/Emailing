@@ -22,5 +22,7 @@ MAIL_USERNAME : default None
 MAIL_PASSWORD : default None
 
 MAIL_DEFAULT_SENDER : default None
+
 MAIL_MAX_EMAILS : default None
+
 MAIL_SUPPRESS_SEND : default app.testing
